@@ -1,0 +1,25 @@
+{
+  "name": "mini-merge-deep",
+  "description": "Mininal Recursive (deep) merge for JavaScript.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/jfparadis/mini-merge-deep",
+  "author": "JF Paradis (https://github.com/jfparadis)",
+  "repository": "jfparadis/mini-merge-deep",
+  "bugs": {
+    "url": "https://github.com/jfparadis/mini-merge-deep/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "mocha": "*"
+  }
+}
